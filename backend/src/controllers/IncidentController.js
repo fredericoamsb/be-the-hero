@@ -4,7 +4,7 @@ module.exports = {
     async index(request, response) {
         const { page = 1 } = request.query;
 
-        const [count] = await await connection('incidents').count();
+        const [count] = await connection('incidents').count();
 
         const incidents = await connection('incidents')
             .join('ongs', 'ongs.id', '=', 'incidents.ong_id')
@@ -27,6 +27,12 @@ module.exports = {
     async create(request, response) {
         const { title, description, value } = request.body;
         const ong_id = request.headers.authorization;
+
+        const hasIncident = await connection('ongs').select('*').where('id', ong_id);
+
+        if (!hasIncident.length) {
+            return response.status(401).json({ error: 'Operation not permitted' });
+        }
 
         const [id] = await connection('incidents').insert({
             title,
