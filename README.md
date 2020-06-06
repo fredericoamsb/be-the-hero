@@ -1,9 +1,17 @@
-### :rocket: Tecnologias usadas
+# BE THE HERO
 
+### :rocket: Technologies
 - Back-end: [Node.js](https://nodejs.org), [Nodemon](https://nodemon.io), [Express.js](https://expressjs.com), [Jest](https://jestjs.io) e [SQLite](https://www.sqlite.org);
 - Front-end: [React](https://reactjs.org/);
 - Mobile: [React Native](https://reactnative.dev) e [Expo](https://expo.io/).
 
-### :muscle: Projeto
+### :camera: Screenshots
 
-<b>Be the Hero</b> é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
+#### :iphone: Mobile
+<img width="200" src="https://github.com/fredericoamsb/be-the-hero/blob/master/mobile/screenshots/mobile-splashscreen.png"> <img width="200" src="https://github.com/fredericoamsb/be-the-hero/blob/master/mobile/screenshots/mobile-incidents.png"> <img width="200" src="https://github.com/fredericoamsb/be-the-hero/blob/master/mobile/screenshots/mobile-detail.png">
+
+#### :computer: Web
+<img width="600" src="https://github.com/fredericoamsb/be-the-hero/blob/master/frontend/screenshots/web-register..png">
+<img width="600" src="https://github.com/fredericoamsb/be-the-hero/blob/master/frontend/screenshots/web-login.png">
+<img width="600" src="https://github.com/fredericoamsb/be-the-hero/blob/master/frontend/screenshots/web-profile.png">
+<img width="600" src="https://github.com/fredericoamsb/be-the-hero/blob/master/frontend/screenshots/web-newincident.png">
