@@ -1,5 +1,4 @@
 ### :rocket: Tecnologias usadas
-Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Back-end: [Node.js](https://nodejs.org), [Nodemon](https://nodemon.io), [Express.js](https://expressjs.com), [Jest](https://jestjs.io) e [SQLite](https://www.sqlite.org);
 - Front-end: [React](https://reactjs.org/);
