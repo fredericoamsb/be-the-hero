@@ -2,9 +2,9 @@
 Omnistack 11 week by Rocketseat
 
 ### :rocket: Technologies
-- Back-end: [Node.js](https://nodejs.org), [Nodemon](https://nodemon.io), [Express.js](https://expressjs.com), [Jest](https://jestjs.io) e [SQLite](https://www.sqlite.org);
-- Front-end: [React](https://reactjs.org/);
-- Mobile: [React Native](https://reactnative.dev) e [Expo](https://expo.io/).
+- Back-end: [Node.js](https://nodejs.org), [Nodemon](https://nodemon.io), [Express.js](https://expressjs.com), [Jest](https://jestjs.io) and [SQLite](https://www.sqlite.org);
+- Front-end: [React](https://reactjs.org);
+- Mobile: [React Native](https://reactnative.dev) and [Expo](https://expo.io).
 
 ### :camera: Screenshots
 
