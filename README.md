@@ -1,4 +1,5 @@
 # BE THE HERO
+Omnistack 11 week by Rocketseat
 
 ### :rocket: Technologies
 - Back-end: [Node.js](https://nodejs.org), [Nodemon](https://nodemon.io), [Express.js](https://expressjs.com), [Jest](https://jestjs.io) e [SQLite](https://www.sqlite.org);
